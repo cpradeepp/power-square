@@ -1,5 +1,6 @@
 <?php
 //Commentss adddeds
+//Next comment
 	session_start();
 ?>
 <html>
