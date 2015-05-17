@@ -1,4 +1,5 @@
 <?php
+//Commentss adddeds
 	session_start();
 ?>
 <html>
